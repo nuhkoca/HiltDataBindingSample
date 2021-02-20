@@ -1,4 +1,4 @@
-package com.example.hiltdatabindingdemo
+package com.example.hiltdatabindingdemo.di
 
 import androidx.databinding.DataBindingComponent
 import dagger.hilt.DefineComponent

@@ -1,5 +1,6 @@
-package com.example.hiltdatabindingdemo
+package com.example.hiltdatabindingdemo.di
 
+import com.example.hiltdatabindingdemo.binding.ImageBindingAdapter
 import dagger.hilt.EntryPoint
 import dagger.hilt.InstallIn
 

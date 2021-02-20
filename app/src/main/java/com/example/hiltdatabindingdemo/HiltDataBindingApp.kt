@@ -2,6 +2,7 @@ package com.example.hiltdatabindingdemo
 
 import android.app.Application
 import androidx.databinding.DataBindingUtil
+import com.example.hiltdatabindingdemo.di.CustomBindingComponentBuilder
 import dagger.hilt.android.HiltAndroidApp
 import javax.inject.Inject
 import javax.inject.Provider

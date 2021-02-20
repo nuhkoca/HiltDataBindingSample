@@ -1,4 +1,4 @@
-package com.example.hiltdatabindingdemo
+package com.example.hiltdatabindingdemo.di
 
 import javax.inject.Scope
 import kotlin.annotation.AnnotationRetention.BINARY

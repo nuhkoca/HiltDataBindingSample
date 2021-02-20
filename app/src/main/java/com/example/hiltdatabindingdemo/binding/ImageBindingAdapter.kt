@@ -1,4 +1,4 @@
-package com.example.hiltdatabindingdemo
+package com.example.hiltdatabindingdemo.binding
 
 import android.widget.ImageView
 import androidx.databinding.BindingAdapter
