@@ -16,6 +16,7 @@ class HiltDataBindingApp : Application() {
     override fun onCreate() {
         super.onCreate()
 
-        DataBindingUtil.setDefaultComponent(bindingComponentProvider.get().build())
+        val dataBindingComponent = bindingComponentProvider.get().build()
+        DataBindingUtil.setDefaultComponent(dataBindingComponent)
     }
 }
